@@ -1,7 +1,7 @@
-# Test Drive Unlimited Recomp (TDUR)
+## Test Drive Unlimited Recomp (TDUR)
 Recompiled port for Test Drive Unlimited (TDU) 2006 XBOX 360. 
 
-#Why we should work on it?
+## Why we should work on it?
 I have a wish to return the amazing moments, when we was young.
 When I was a child it was one of my favourite games, but when I hadn't been enough competent in PC, due to I hadn't played online mode,
 but when I remembered about this game, it was to late, servers was closed...
@@ -9,7 +9,7 @@ I think, what I'm not alone with this wish...
 Now I'm a programmer (in specialities of C++ 3D graphics and nets) and I've no through out this idea out of my mind. 
 Then, I'll try to close this goal.
 
-#Advantages of this project:
+## Advantages of this project:
 1)We can understand how works online mode and remake servers for PC and XBox 360
 2)Easier and better modding with understanding of source code
 3)Port of this game to Mac and Linux (later)
@@ -26,7 +26,7 @@ In conclusion, we will add 4K, RTX, DLSS and etc. cool modern things and solve t
 XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like experimental fork-version with fresh updates
  (unfortunattely at this moment XenonRecomp updates long-term :( )
 
-#Project 
+## Project 
 Windows 10,11 (32/64)bit
 DirectX12+SDL2 C++ 32bit(XenonRecomp target recomp:)
 (but in future it would be also Vulkan+SDL3 64bit(and maybe Rust as alternative language), but not soon ?earlier than XenonRecomp will recompile for MacOS and Linux)
@@ -44,17 +44,10 @@ Work in progress.
 ## Build instructions
 As usual for XenonRecompile projects
 
-##Future
+## Future
 If project will be finished next we continue modify(invent some features from sequel) and port 
 this to other platforms and maybe will work on sequel
 
-##P.S.
+## P.S.
 **We know, that some other TDU fans works on their clients (OpenTDU); 
 **It'll be good try to co-op in this labor, but It's interesting to try to solve this problem in different ways.
-
--
-
-XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like experimental fork-version with fresh updates
- (unfortunattely at this moment XenonRecomp updates long-term :( )
- 
- Some  new commands of PowerPC CPU checked, but other experimental
