@@ -38,13 +38,19 @@ XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like exp
 ## Project 
 Windows 10,11 (32/64)bit
 DirectX12+SDL2 C++ 32bit(XenonRecomp target recomp:)
+
 (but in future it would be also Vulkan+SDL3 64bit(and maybe Rust as alternative language), but not soon ?earlier than XenonRecomp will recompile for MacOS and Linux)
+
 **If you specialist in Vulkan, Vulkan pipeline would be greatly appreciated (XenosRecomp suppor tboth recomp to DX12 and Vulkan shaders)**
 
 Goals of the project 
+
 1)kickstart recompiled version
+
 2)convert recompiled machine C++ to "readable" C++
+
 3)understand the net-code and make new server
+
 4)add new graphics
 
 ## Project Status
