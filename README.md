@@ -21,7 +21,7 @@ Then, I'll try to close this goal.
 In conclusion, we will add 4K, RTX, DLSS and etc. cool modern things and solve the problems with online, traffic AI and CPU-usage
 
 **This project is not a replacement for the game (you still need to own a legal copy of the game); and does not provide any game assets!**
-**You should dump your DVD and prepare for this port
+**You should dump your DVD and prepare for this port**
 
 XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like experimental fork-version with fresh updates
  (unfortunattely at this moment XenonRecomp updates long-term :( )
