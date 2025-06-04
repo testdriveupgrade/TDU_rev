@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/testdriveupgrade/TDU_rev/refs/heads/main/tdur2.jpg" width="512"/>
  </p>
-Recompiled port for Test Drive Unlimited (TDU) 2006 XBOX 360. 
+Recompiled port of Test Drive Unlimited (TDU) 2006 XBOX 360. 
 
 ## Why we should work on it?
 I have a wish to return the amazing moments, when we was young.
