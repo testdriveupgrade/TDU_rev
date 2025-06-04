@@ -1,0 +1,3 @@
+   [submodule "thirdparty/SDL2"]
+       path = thirdparty/SDL2
+       url = https://github.com/SDL2/repository.git
