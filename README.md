@@ -1,4 +1,7 @@
 ## Test Drive Unlimited Recomp (TDUR)
+<p align="center">
+<img src="https://raw.githubusercontent.com/testdriveupgrade/TDU_rev/refs/heads/main/tdur2.jpg" width="512"/>
+ </p>
 Recompiled port for Test Drive Unlimited (TDU) 2006 XBOX 360. 
 
 ## Why we should work on it?
@@ -11,11 +14,17 @@ Then, I'll try to close this goal.
 
 ## Advantages of this project:
 1)We can understand how works online mode and remake servers for PC and XBox 360
+
 2)Easier and better modding with understanding of source code
+
 3)Port of this game to Mac and Linux (later)
+
 4)Possibility to create global mods for PC and XBox verison 
+
 5)360-version have some new cars, which we are easier to convert to PC-version (and add new cars)
+
 6)360 Graphics sometimes a bit better, due to special shaders (like mw 360 vs PC version)
+
 7)Sequel maybe modified (at this moment fan-made online is not exist on XBOX 360 version, only on PC and PS3 versions) 
 
 In conclusion, we will add 4K, RTX, DLSS and etc. cool modern things and solve the problems with online, traffic AI and CPU-usage
@@ -30,7 +39,7 @@ XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like exp
 Windows 10,11 (32/64)bit
 DirectX12+SDL2 C++ 32bit(XenonRecomp target recomp:)
 (but in future it would be also Vulkan+SDL3 64bit(and maybe Rust as alternative language), but not soon ?earlier than XenonRecomp will recompile for MacOS and Linux)
-**If you specialist in Vulkan, Vulkan pipeline would be greatly appreciated (XenosRecomp suppor tboth recomp to DX12 and Vulkan shaders)
+**If you specialist in Vulkan, Vulkan pipeline would be greatly appreciated (XenosRecomp suppor tboth recomp to DX12 and Vulkan shaders)**
 
 Goals of the project 
 1)kickstart recompiled version
