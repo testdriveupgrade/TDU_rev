@@ -64,5 +64,5 @@ If project will be finished next we continue modify(invent some features from se
 this to other platforms and maybe will work on sequel
 
 ## P.S.
-**We know, that some other TDU fans works on their clients (OpenTDU); 
+**We know, that some other TDU fans works on their clients (OpenTDU): https://github.com/opentestdriveunlimited/opentdu
 **It'll be good try to co-op in this labor, but It's interesting to try to solve this problem in different ways.
