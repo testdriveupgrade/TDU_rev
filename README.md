@@ -33,7 +33,7 @@ In conclusion, we will add 4K, RTX, DLSS and etc. cool modern things and solve t
 **You should dump your DVD and prepare for this port**
 
 XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like experimental fork-version with fresh updates
- (unfortunattely at this moment XenonRecomp updates long-term :( )
+ (unfortunattely at this moment XenonRecomp updates long-term :( ) https://github.com/testdriveupgrade/XenonRecompUnlimited
 
 ## Project 
 Windows 10,11 (32/64)bit
